@@ -17,9 +17,11 @@ This research develops and evaluates Machine Learning models for classifying thr
 - Information Gain
 
 ### Pipeline
-- Text preprocessing
-- TF-IDF feature extraction
-- Machine Learning classification
+- Data Collection — Collected Thai-language posts from X (Twitter) using keywords and manual labelling by 3 Thai language experts.
+- Data Preparation — Preprocessed text and extracted features using BoW and TF-IDF.
+- Feature Selection — Applied Information Gain (IG) to select the most relevant features.
+- Classification — Trained and compared Naïve Bayes, Random Forest, Gradient Boosted Trees, and XGBoost.
+- Evaluation — Assessed model performance using Precision, Recall, Accuracy, and F1-Score.
 
 ## Models
 - Naive Bayes
