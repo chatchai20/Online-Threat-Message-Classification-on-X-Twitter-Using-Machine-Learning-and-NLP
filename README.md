@@ -1,4 +1,4 @@
-# Detection and Classification of Online Threat Messages on X (Twitter) Using Machine Learning and NLP
+# Online Threat Message Classification on X (Twitter) Using Machine Learning and NLP
 
 ## Overview
 This project aims to detect and classify online threat messages on X (Twitter) using Machine Learning and Natural Language Processing techniques.
