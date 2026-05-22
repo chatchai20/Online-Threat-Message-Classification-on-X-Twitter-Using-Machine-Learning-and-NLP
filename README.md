@@ -4,9 +4,9 @@ A Machine Learning system for classifying threatening messages in Thai language 
 ## Overview
 This research develops and evaluates Machine Learning models for classifying threatening text in Thai on social media. It covers three main threat categories to support the development of automated content moderation systems and promote a safer online environment for users.
 ## Dataset
-Source: X (Twitter) platform
-Size: 2,032 public posts
-Language: Thai
+- Source: X (Twitter) platform
+- Size: 2,032 public posts
+- Language: Thai
 
 ## Methodology
 ### Feature Extraction
