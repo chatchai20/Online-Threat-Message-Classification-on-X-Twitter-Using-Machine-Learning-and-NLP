@@ -34,7 +34,6 @@ The best overall performance was achieved by the Naïve Bayes model combined wit
 
 ## Tools
 - Python
-- Scikit-learn
 - Google Colab
 - Rapid miner
 
